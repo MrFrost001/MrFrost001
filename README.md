@@ -105,7 +105,7 @@ An autonomous AI agent built with **FastAPI** and **Groq LLM** that converts nat
 
 💼 LinkedIn: www.linkedin.com/in/utkarsh-maurya-ab8423295
 
-🐙 Instagram: https://www.instagram.com/mauryavanshi_ut/
+📱 Instagram: https://www.instagram.com/mauryavanshi_ut/
 
 ---
 
