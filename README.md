@@ -60,9 +60,16 @@ Passionate about building intelligent AI systems, predictive models, and real-wo
 
 ---
 
-### 🌿 Prakriti Prediction System
-- Machine Learning model for Ayurvedic body type classification
-- Uses BMI, height, and body structure features
+## 🤖 AI-Powered Autonomous Business Document Generator
+
+An autonomous AI agent built with **FastAPI** and **Groq LLM** that converts natural-language requests into professional **Word (.docx) business documents**.
+
+### ✨ Features
+- 🧠 AI-based document planning and content generation
+- 🔍 Self-checking and validation
+- 📄 Automatic `.docx` document generation
+- 🔄 Retry, timeout, and fallback mechanisms
+- ⚡ FastAPI REST API
 
 ---
 
